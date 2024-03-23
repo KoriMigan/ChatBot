@@ -14,10 +14,7 @@ This is a ChatBot integrated with a PDF text extraction feature, allowing for us
 
 ## Getting Started
 
-1. To run the chatbot locally on your machine, clone the repository to your local machine:
-
-   git clone https://github.com/KoriMigan/ChatBot_Development.git
-   cd ChatBot_Development
+1. To run the chatbot locally on your machine, clone the repository to your local machine: '''bash git clone https://github.com/KoriMigan/ChatBot_Development.git cd ChatBot_Development
 2. Install the required dependencies:
 
    pip install -r requirements.txt
