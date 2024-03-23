@@ -1,4 +1,4 @@
 .env
 # Ignore FAISS index file
 faiss_index/
-environment.yml
+
